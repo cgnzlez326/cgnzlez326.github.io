@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentación día viernes</title>
-    <link>http://cgnzlez326.github.io/</link>
+    <link>https://cgnzlez326.github.io/</link>
     <description>Recent content on Presentación día viernes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2022 05:22:32 -0400</lastBuildDate><atom:link href="http://cgnzlez326.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 05:22:32 -0400</lastBuildDate><atom:link href="https://cgnzlez326.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Viernes, el mejor día de la semana</title>
-      <link>http://cgnzlez326.github.io/posts/primer_post/</link>
+      <link>https://cgnzlez326.github.io/posts/primer_post/</link>
       <pubDate>Fri, 06 May 2022 05:22:32 -0400</pubDate>
       
-      <guid>http://cgnzlez326.github.io/posts/primer_post/</guid>
+      <guid>https://cgnzlez326.github.io/posts/primer_post/</guid>
       <description>Texto Subtítulo def crear_comida(ingredientes, utensilios)  ingredientes_preparados = preparar(ingredientes)  limpios = Cocina::Lavaplatos.lavar(utensilios)  cocinar(ingredientes_preparados, limpios) end </description>
     </item>
     
