@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Presentación día viernes</title>
+    <title>Posts on Hola 123</title>
     <link>https://cgnzlez326.github.io/posts/</link>
-    <description>Recent content in Posts on Presentación día viernes</description>
+    <description>Recent content in Posts on Hola 123</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2022 05:22:32 -0400</lastBuildDate><atom:link href="https://cgnzlez326.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 10:59:32 -0400</lastBuildDate><atom:link href="https://cgnzlez326.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Viernes, el mejor día de la semana</title>
-      <link>https://cgnzlez326.github.io/posts/primer_post/</link>
-      <pubDate>Fri, 06 May 2022 05:22:32 -0400</pubDate>
+      <title>Post_del_viernes</title>
+      <link>https://cgnzlez326.github.io/posts/post_del_viernes/</link>
+      <pubDate>Fri, 06 May 2022 10:59:32 -0400</pubDate>
       
-      <guid>https://cgnzlez326.github.io/posts/primer_post/</guid>
-      <description>Texto Subtítulo def crear_comida(ingredientes, utensilios)  ingredientes_preparados = preparar(ingredientes)  limpios = Cocina::Lavaplatos.lavar(utensilios)  cocinar(ingredientes_preparados, limpios) end </description>
+      <guid>https://cgnzlez326.github.io/posts/post_del_viernes/</guid>
+      <description>Titulo Titulo mas pequeno texto plano hola
+def generate_doc(empresa, variable, obj_contabilidad)  Exportador::BaseXlsx.crear_libro end </description>
     </item>
     
   </channel>
